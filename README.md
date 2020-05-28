@@ -1,4 +1,2 @@
-# hello-world
+# PrydiukVladislav
 
-Hi humans!
-Hubot here 
